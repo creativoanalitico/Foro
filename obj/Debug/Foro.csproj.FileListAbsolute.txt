@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2010\Projects\Foro\Foro\bin\Foro.dll
+c:\users\user\documents\visual studio 2010\Projects\Foro\Foro\bin\Foro.pdb
+c:\users\user\documents\visual studio 2010\Projects\Foro\Foro\obj\Debug\Foro.dll
+c:\users\user\documents\visual studio 2010\Projects\Foro\Foro\obj\Debug\Foro.pdb
